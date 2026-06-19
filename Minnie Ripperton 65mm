@@ -1,15 +1,15 @@
 set p_pitch = 37
-set i_pitch = 95
+set i_pitch = 85
 set d_pitch = 34
 set d_min_pitch = 34
 set f_pitch = 60
 set p_roll = 33
-set i_roll = 85
+set i_roll = 80
 set d_roll = 29
 set d_min_roll = 29
 set f_roll = 60
 set p_yaw = 36
-set i_yaw = 90
+set i_yaw = 85
 set d_yaw = 0
 set f_yaw = 60
 set dyn_idle_min_rpm = 32
@@ -31,7 +31,7 @@ set throttle_boost = 3
 set throttle_boost_cutoff = 25
 
 set dterm_lpf1_dyn_min_hz = 100
-set dterm_lpf1_dyn_max_hz = 200
+set dterm_lpf1_dyn_max_hz = 160
 set dterm_lpf1_dyn_expo = 5
 set dterm_lpf1_type = PT1
 set dterm_lpf1_static_hz = 0
@@ -43,7 +43,7 @@ set vbat_sag_compensation = 0
 set pid_at_min_throttle = ON
 set anti_gravity_gain = 800
 set anti_gravity_cutoff_hz = 5
-set anti_gravity_p_gain = 100
+set anti_gravity_p_gain = 700
 set acc_limit_yaw = 0
 set acc_limit = 0
 
@@ -64,12 +64,12 @@ set dyn_notch_count = 2
 set dyn_notch_q = 450
 set dyn_notch_min_hz = 60
 set dyn_notch_max_hz = 600
-set gyro_lpf1_dyn_min_hz = 75
-set gyro_lpf1_dyn_max_hz = 500
+set gyro_lpf1_dyn_min_hz = 50
+set gyro_lpf1_dyn_max_hz = 280
 set gyro_lpf1_dyn_expo = 5
 
 set tpa_mode = D
-set tpa_rate = 48
+set tpa_rate = 45
 set tpa_breakpoint = 1120
 
 set launch_control_gain = 40
