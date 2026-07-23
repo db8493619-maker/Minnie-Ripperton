@@ -27,7 +27,7 @@ set iterm_windup = 85
 set pidsum_limit = 420
 set pidsum_limit_yaw = 400
 set yaw_lowpass_hz = 0
-set throttle_boost = 3
+set throttle_boost = 20
 set throttle_boost_cutoff = 25
 
 set dterm_lpf1_dyn_min_hz = 100
