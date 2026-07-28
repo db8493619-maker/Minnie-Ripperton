@@ -2,17 +2,17 @@ set p_pitch = 37
 set i_pitch = 85
 set d_pitch = 34
 set d_min_pitch = 34
-set f_pitch = 60
+set f_pitch = 85
 set p_roll = 33
 set i_roll = 80
 set d_roll = 29
 set d_min_roll = 29
-set f_roll = 60
+set f_roll = 85
 set p_yaw = 36
 set i_yaw = 85
 set d_yaw = 0
-set f_yaw = 60
-set dyn_idle_min_rpm = 32
+set f_yaw = 85
+set dyn_idle_min_rpm = 35
 
 set d_max_gain = 46
 set d_max_advance = 40
@@ -27,10 +27,10 @@ set iterm_windup = 85
 set pidsum_limit = 420
 set pidsum_limit_yaw = 400
 set yaw_lowpass_hz = 0
-set throttle_boost = 20
+set throttle_boost = 5
 set throttle_boost_cutoff = 25
 
-set dterm_lpf1_dyn_min_hz = 100
+set dterm_lpf1_dyn_min_hz = 110
 set dterm_lpf1_dyn_max_hz = 160
 set dterm_lpf1_dyn_expo = 5
 set dterm_lpf1_type = PT1
@@ -54,8 +54,8 @@ set rpm_filter_min_hz = 50
 set rpm_filter_fade_range_hz = 50
 set rpm_filter_lpf_hz = 150
 
-set deadband = 2
-set yaw_deadband = 2
+set deadband = 3
+set yaw_deadband = 3
 set rc_smoothing = ON
 set rc_smoothing_auto_factor = 90
 
@@ -64,8 +64,8 @@ set dyn_notch_count = 2
 set dyn_notch_q = 450
 set dyn_notch_min_hz = 120
 set dyn_notch_max_hz = 400
-set gyro_lpf1_dyn_min_hz = 50
-set gyro_lpf1_dyn_max_hz = 280
+set gyro_lpf1_dyn_min_hz = 90
+set gyro_lpf1_dyn_max_hz = 220
 set gyro_lpf1_dyn_expo = 5
 
 set tpa_mode = D
