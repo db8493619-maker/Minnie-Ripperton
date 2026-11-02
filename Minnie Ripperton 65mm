@@ -54,8 +54,8 @@ set rpm_filter_min_hz = 50
 set rpm_filter_fade_range_hz = 50
 set rpm_filter_lpf_hz = 150
 
-set deadband = 3
-set yaw_deadband = 3
+set deadband = 5
+set yaw_deadband = 5
 set rc_smoothing = ON
 set rc_smoothing_auto_factor = 90
 
