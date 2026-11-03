@@ -12,7 +12,7 @@ set p_yaw = 36
 set i_yaw = 95
 set d_yaw = 0
 set f_yaw = 85
-set dyn_idle_min_rpm = 35
+set dyn_idle_min_rpm = 50
 
 set d_max_gain = 46
 set d_max_advance = 40
