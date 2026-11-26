@@ -4,6 +4,7 @@ set tpa_breakpoint = 1150
 set tpa_low_rate = 20
 set tpa_low_breakpoint = 1050
 set tpa_low_always = OFF
+set dyn_idle_min_rpm = 55
 
 set dterm_lpf1_dyn_min_hz = 130
 set dterm_lpf1_dyn_max_hz = 180
