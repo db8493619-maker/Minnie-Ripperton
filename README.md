@@ -1,3 +1,4 @@
 this is what the images should look like the d term seems to not carry over very well in the pids
-<img width="1641" height="780" alt="minnie pic 1" src="https://github.com/user-attachments/assets/c2862408-50ce-498a-b80b-d48a04e24394" />
-<img width="1644" height="723" alt="minnie pic 2" src="https://github.com/user-attachments/assets/55ca6fad-9a3c-4bbf-98a6-9e01f0a2548d" />
+<img width="1274" height="580" alt="65 mini rip new" src="https://github.com/user-attachments/assets/b0c8cdce-167c-4bd4-a3a7-cd222c7320ef" />
+
+<img width="1317" height="450" alt="new mini rip filters" src="https://github.com/user-attachments/assets/1e935902-3de8-4ab2-ba45-86a96c19ed94" />
